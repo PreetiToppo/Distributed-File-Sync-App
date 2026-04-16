@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DistributedFileSync</string>
+    <string name="sync_notification_channel">File Sync</string>
+    <string name="sync_notification_title">Syncing files…</string>
+</resources>
